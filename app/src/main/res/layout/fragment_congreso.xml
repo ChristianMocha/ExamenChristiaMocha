@@ -37,18 +37,261 @@
                 android:id="@+id/txtEvento1"
                 android:layout_width="match_parent"
                 android:autoSizeTextType="uniform"
-                android:layout_height="100dp"
+                android:layout_height="80dp"
                 android:layout_marginBottom="15dp"
                 android:textColor="#fff"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:paddingTop="10dp"
                 android:paddingBottom="10dp"
-                android:text="Congreso"
+                android:text="Titulo"
+                />
+
+            <TextView
+                android:id="@+id/txtxtituo"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="ARTÍCULO 1"
+                />
+
+            <TextView
+                android:id="@+id/txtxti"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="Descripcion"
+                />
+
+            <TextView
+                android:id="@+id/txtdes"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="Son Organos de la Función Legislativa: El Congreso Nacional, el Plenario de las Comisiones Legislativas, las Comisiones de Asuntos Internos y las Comisiones Especiales"
+                />
+
+            <TextView
+                android:id="@+id/txtfech"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="Fecha"
+                />
+
+            <TextView
+                android:id="@+id/txtfeh"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="20/11/2018"
+                />
+
+<!--dato 2-->
+
+
+            <TextView
+                android:id="@+id/txts"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="Titulo"
+                />
+
+            <TextView
+                android:id="@+id/xtst"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="ARTÍCULO 2"
+                />
+
+            <TextView
+                android:id="@+id/xsa"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="Descripcion"
+                />
+
+            <TextView
+                android:id="@+id/sas"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="Son Organos de la Función Legislativa: El Congreso Nacional, el Plenario de las Comisiones Legislativas, las Comisiones de Asuntos Internos y las Comisiones Especiales"
+                />
+
+            <TextView
+                android:id="@+id/sdas"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="Fecha"
+                />
+
+            <TextView
+                android:id="@+id/dasfas"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="20/11/2018"
                 />
 
 
 
+<!--            dato 3-->
+
+
+            <TextView
+                android:id="@+id/fdsg"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="Titulo"
+                />
+
+            <TextView
+                android:id="@+id/ggd"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="ARTÍCULO 3"
+                />
+
+            <TextView
+                android:id="@+id/gdsnjk"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="Descripcion"
+                />
+
+            <TextView
+                android:id="@+id/gfdfd"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="Son Organos de la Función Legislativa: El Congreso Nacional, el Plenario de las Comisiones Legislativas, las Comisiones de Asuntos Internos y las Comisiones Especiales"
+                />
+
+            <TextView
+                android:id="@+id/tet"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="Fecha"
+                />
+
+            <TextView
+                android:id="@+id/hh"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="20/11/2018"
+                />
 
 
 

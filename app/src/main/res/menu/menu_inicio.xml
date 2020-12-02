@@ -2,5 +2,13 @@
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:title="acerca de" />
+    <item
+        android:id="@+id/salud"
+        android:title="salud" />
+    <item
+        android:id="@+id/acercaDe"
+        android:title="acerca de" />
+    <item
+        android:id="@+id/congreso"
+        android:title="congreso" />
 </menu>
