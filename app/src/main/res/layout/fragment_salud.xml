@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".RecomendacionesSaludFragment">
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:background="#d8000000"
+            android:gravity="center"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="80dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="Recomendaciones de Salud"
+                />
+
+            <TextView
+                android:id="@+id/textInformacion"
+                android:layout_width="match_parent"
+                android:autoSizeTextType="uniform"
+                android:layout_height="150dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="La OMS en la 9ª Conferencia Mundial de la Salud, que tuvo lugar en Shanghái (China) en 2016, tuvo por título “Promoción de la Salud en los ODS: Salud para todos y todos para la salud”. Las líneas de acción que se propusieron no sólo se ceñían a las actitudes individuales, sino que subrayaban la responsabilidad de las instituciones locales, nacionales y globales a la hora de desarrollar políticas que contribuyan a mejorar la salud de todos los ciudadanos. Los ámbitos de intervención se centraban en la importancia de favorecer una buena gobernanza, en el desarrollo de entornos saludables (especialmente en el ámbito urbano) y en educar a la población sobre salud, enfermedad y cuidado de uno mismo."/>
+
+        </LinearLayout>
+
+    </FrameLayout>
+</layout>
